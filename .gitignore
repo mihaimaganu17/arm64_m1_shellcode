@@ -1,3 +1,5 @@
 /target
 *.swp
 /shellcode/spawn_shell
+/shellcode/*.o
+/shellcode/spawn_shell_asm
